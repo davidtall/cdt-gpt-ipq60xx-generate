@@ -162,7 +162,7 @@ Confidential and Proprietary - Qualcomm Technologies, Inc.
 		/>
 	<partition
 		label="rootfs"
-		size_in_kb="61440"
+		size_in_kb="1048576"
 		type="98D2248D-7140-449F-A954-39D67BD6C3B4"
 		bootable="false"
 		readonly="false"
