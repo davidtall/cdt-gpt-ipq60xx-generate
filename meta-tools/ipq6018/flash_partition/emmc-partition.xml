@@ -143,7 +143,7 @@ Confidential and Proprietary - Qualcomm Technologies, Inc.
 		/>
 	<partition
 		label="0:HLOS"
-		size_in_kb="6144"
+		size_in_kb="12288"
 		type="B51F2982-3EBE-46DE-8721-EE641E1F9997"
 		bootable="false"
 		readonly="false"
@@ -239,14 +239,6 @@ Confidential and Proprietary - Qualcomm Technologies, Inc.
 		/>
 		<!-- 注意下面storage分区原厂是58798046.5kb 多了0.5kb  -->
 		<!-- 通过修改ptool.py中的size_in_kb为float才可以用小数  -->
-	<partition
-		label="storage"
-		size_in_kb="58798046.5"
-		type="1B1720DA-A8BB-4B6F-92D2-0A93AB9609CA"
-		bootable="false"
-		readonly="false"
-		filename=""
-		/>
 	</physical_partition>
 
 <!-- This is physical partition 1 -->
