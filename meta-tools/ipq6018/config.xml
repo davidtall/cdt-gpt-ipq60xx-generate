@@ -49,7 +49,7 @@ Confidential and Proprietary - Qualcomm Technologies, Inc.
 		FSEIASLD-128G-*** total_block: 240615424 0x0E578000
 	 -->
 	<data type="EMMC_PARAMETER">
-		<total_block>119783424</total_block>
+		<total_block>7634944</total_block>
 		<partition_mbn>gpt_main0.bin</partition_mbn>
 		<partition_mbn_backup>gpt_backup0.bin</partition_mbn_backup>
 	</data>
